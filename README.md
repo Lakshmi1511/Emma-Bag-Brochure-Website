@@ -1,5 +1,5 @@
 # Emma Bag Store Website
-This is a shoe store landing page website (brochure website) created by myself using HTML, CSS, and Javascript. This is a dummy project.
+This is a Bag store landing page website (brochure website) created by myself using HTML, CSS, and Javascript.
 
 ## Link of This Project
 https://lakshmi1511.github.io/Emma-Bag-Brochure-Website/
